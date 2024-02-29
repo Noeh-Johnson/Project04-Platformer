@@ -14,6 +14,12 @@ Character Controller adapted from Sebastion Lague's Unity 5 Character Controller
 https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
+Seasonal Tilesets by GrafxKid
+https://grafxkid.itch.io/seasonal-tilesets?download#google_vignette
 ## Future Development
 
+Pixel Adventure 2 by Pixel Frog
+https://pixelfrog-assets.itch.io/pixel-adventure-2?download#google_vignette
+
 ## Created by
+Noeh Johnson
