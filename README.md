@@ -1,12 +1,13 @@
 # Project04-Platformer
 
-# Project Name
+# Hamster Hibernation
 Context and date
 
 Description
+Youre a hungry hamster trying to collect food before hibernation! Explore the different seasons and fight enemies to get to your goal!
 
 ## Implementation
-Which features you included.
+Start and End Menu, Music, Coins and Player custom sprite, enemy sprites, 4 different levels based on seasons, sfx
 
 ## References
 
@@ -19,7 +20,11 @@ https://grafxkid.itch.io/seasonal-tilesets?download#google_vignette
 
 Pixel Adventure 2 by Pixel Frog
 https://pixelfrog-assets.itch.io/pixel-adventure-2?download#google_vignette
+
+Free Music Tracks For Games by Rizwan Ashraf
+https://assetstore.unity.com/packages/audio/music/free-music-tracks-for-games-156413
 ## Future Development
+
 
 
 ## Created by
